@@ -1,0 +1,5 @@
+! Expires: 1 days
+! Description: Filters to whitelist Cashbackworld / Lyoness, because you want turn off whole adblock when youre shopping
+! Homepage: https://github.com/pschonmann/cashbackworld-lyoness-adblock-whitelist
+
+@@||admitad.com^
